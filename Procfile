@@ -1,2 +1,2 @@
-web: python prueba.py
+web: python3 prueba.py
 
